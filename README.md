@@ -2,7 +2,7 @@
 - 👀 I’m interested in Electronics and Robotics
 - 🌱 I’m currently learning how to program and use the Arduino
 - 💞️ I’m looking to collaborate on Electronics and Robotics projects
-- 📫 You can reach me at lvk2@juno.com
+- 📫 You can reach me at laurin.k2@gmail.com
 
 <!---
 lkline298/lkline298 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
